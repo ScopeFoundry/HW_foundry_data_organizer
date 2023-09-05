@@ -1,5 +1,5 @@
 from ScopeFoundry import HardwareComponent
-from ScopeFoundryHW.virtual_function_gen.foundry_data_organizer_device import DataOrganizerDevice
+from ScopeFoundryHW.foundry_data_organizer.foundry_data_organizer_device import DataOrganizerDevice
 
 
 class DataOrganizerHW(HardwareComponent):
